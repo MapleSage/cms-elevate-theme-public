@@ -1,3 +1,4 @@
 {
-  "label": "my-cms-theme"
+  "label": "my-cms-theme",
+  "extends": "@hubspot/elevate"
 }
